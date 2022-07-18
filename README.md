@@ -2,6 +2,10 @@
 
 ## atualmente estudo programação com foco em desenvolvimento web
 
+🚀   Buscando novos desafios
+💜   Buscando colaborar com projetos desafiadores
+💻   Minha stack: HTML, CSS e JavaScript
+
 
 [![skillhtml](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
 [![skillcss](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
